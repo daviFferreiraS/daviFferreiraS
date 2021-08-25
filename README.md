@@ -3,6 +3,7 @@
 </em></p>
 
 <img align= "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daviFferreiraS&layout=compact">
+![Davi's github stats](https://github-readme-stats.vercel.app/api?username=daviFferreiraS&show_icons=true&hide=[%22issues%22])
 
 ## Progamming Languages and some tech
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -34,5 +35,5 @@
 	
  ```
  
-![Davi's github stats](https://github-readme-stats.vercel.app/api?username=daviFferreiraS&show_icons=true&hide=[%22issues%22])
+
 ---
