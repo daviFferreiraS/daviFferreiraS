@@ -5,17 +5,30 @@
 [![Twitter](https://img.shields.io/twitter/follow/davifafesi?style=social)](https://twitter.com/davifafesi)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-```javascript
-const thai = {
-  code: [Javascript, Dart / Flutter, HTML, CSS, Python, C],
-  askMeAbout: ["tech", "photography", "Data Science", "Robotics"],
- challenge: "I'm currently learning Data Science and Machine Learning"
-}
-```
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daviFferreiraS&layout=compact">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Davi Fagundes'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi fictions, classic novels and some more',
+        'Photography'
+			]
+	
+	def getCity():
+		return Santos_Brazil()
+	
+	def Ambitions():
+		LearnGerman()
+		CreateRobot()
+		CreateNeuralNetwork()
+		# And some more, but I don't want to sound cocky
+	
+ ```
+ 
+<img align= "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daviFferreiraS&layout=compact">
+![Davi's github stats](https://github-readme-stats.vercel.app/api?username=daviFferreiraS&show_icons=true&hide=[%22issues%22])
 ---
