@@ -34,4 +34,4 @@
 <img align="left" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daviFferreiraS&layout=compact&theme=dark">
 <img align= "right"height="180px" src = "https://github-readme-stats.vercel.app/api?username=daviFferreiraS&show_icons=true&hide=[%22issues%22]&theme=dark">
 
----
+
