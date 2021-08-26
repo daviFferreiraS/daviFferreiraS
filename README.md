@@ -1,5 +1,5 @@
 <h2> Hi, I'm Davi Fagundes! 🐱‍👤</h2>
-<p><em>Undergraduate Student at <a href="https://www.icmc.usp.br">Institute of Mathematics and Computer Science</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Undergraduate Student at <a href="https://www.icmc.usp.br" target= "_blank">Institute of Mathematics and Computer Science</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ## Progamming Languages and some tech
